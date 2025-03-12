@@ -1,0 +1,14 @@
+class Rectangles
+  {
+    void area()
+       {
+          int w= 15;
+          int h=5;
+          double res= w*h;
+          System.out.println(res);
+       }
+    public static void main (String[] args)  
+     {
+        new Rectangles().area();
+		}
+}

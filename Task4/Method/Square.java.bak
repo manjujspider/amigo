@@ -1,0 +1,24 @@
+class Sqaue
+{
+  static void area()
+      {
+        
+           int a=12;
+           int  res= w*h;
+           System.out.println("Area of  Triangle is:"+ res);
+  
+     }
+	 
+}	 
+	 
+class Square
+{ 
+
+	public static void main (String [] args)
+	{
+		Rect.area();
+		
+	    }
+	
+
+}

@@ -1,0 +1,15 @@
+class Square
+  {
+    int area (int a)
+       {
+         int res= a*a;
+          return res;
+       }
+    public static void main (String[] args)  
+     {
+		Square x=new Square();
+		 double y= x.area(8);
+		 System.out.println(y);
+        
+		}
+}
